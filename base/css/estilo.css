@@ -1,0 +1,25 @@
+
+#cabecalho{
+    background-color: aqua;
+    height: 190px;
+    position: relative;
+    background-image: url("../img/banner-1280×640.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    h1{
+            float:  left;
+            position: absolute;
+            top: 30%; 
+            left: 10%; 
+    }
+
+    nav{
+        float: right;
+        position: absolute;
+        top: 30%;
+        right: 10%; 
+    }
+
+}
