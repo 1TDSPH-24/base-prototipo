@@ -23,5 +23,22 @@
 
  ## Equipes
 - [ Cabecalho ] Equipe responsável por criar o cabeçalho.
-- André-L - Vitor-T - Felipe-R - Victor-G
-- 
+- André-L - Vitor-T - Felipe-R - Victor-G - Pedro-V
+- [ Help ] Equipe responsável por criar conteúdo do Help.
+- GioVanni-P - Lohana - Fernando - Eduarda - André-A
+- [ About ] Equipe responsável por criar conteúdo do About.
+- Gustavo-S - Lucas-A - Maria - Israel - Carlos - Enrico
+- [ Cadastro ] Equipe responsável por criar o formulário de cadastro.
+- Letícia - Pedro-P - Felipe-P - Sofia-P - Sofia-D
+- [ Rodapé ] Equipe responsável por criar o rodpé da página.
+- Gustavo-D - Julia-A - Victor-H - Gustavo-A - Julia-M
+
+## Para todas as equipes:
+- Criar a branch respectiva do seu módulo de trabalho.
+- Se logar no liveshare e distribuir a sessão para toda a equipe.
+- Realizar a tarefa em equipe, utilizando pair programming(XP).
+- Realizar commits periódicos na branch do módulo.
+- Realizar PULL-REQUESTS(se comunique com as outras equipes.)
+
+ # DICAS
+- A comunicação entre as equipes vai ser o diferencial para o sucesso da tarefa, pois é um projeto conjunto e sendo assim, existem tarefas que dependem umas das outras.
