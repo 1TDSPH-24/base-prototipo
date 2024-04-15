@@ -1,9 +1,35 @@
-*{
+* {
     margin: 0;
     padding: 0;
     border: 0;
 }
-.img_cabecalho{
-    display: flex;
-    width: 100%;
+#cabecalho {
+    height: 200px;
+    position: relative;
+    background-image: url("../img/banner-1280_640-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+} 
+#cabecalho h1{
+    float: left;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
+
+.icon-align {
+    float: right;
+    display: inline;
+    
+}
+.icones_cabecalho{
+    display: inline;
+}
+
+
+
