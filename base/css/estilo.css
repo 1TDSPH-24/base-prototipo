@@ -1,0 +1,104 @@
+* {
+    padding: auto;
+    margin: auto;
+}
+
+.geral {
+    background: #1E2836D9;
+    opacity: 85%;
+    text-align: center;
+}
+
+.titulo {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 70px;
+    line-height: 84.72px;
+    color: #FFFFFF;
+}
+
+.inputs{
+    display: inline-block;
+    align-items: center;
+}
+
+
+#input_nome {
+    display: block;
+    width: 662px;
+    height: 60px;
+    margin-top: 205px;
+    border: 6px solid #A09393;
+    border-radius: 6px;
+    color: #A09393;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 35px;
+    line-height: 42.36px;
+}
+
+.obgt_nome {
+    
+    color: red;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    float: inline-start;
+    margin-left: 180px;
+}
+
+#input_email {
+    display: block;
+     width: 662px;
+     height: 60px;
+     margin-top: 346px;
+     border: 6px solid #A09393;
+     border-radius: 6px;
+     color: #A09393;
+     font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+     font-variation-settings: "slnt" 0;
+     font-size: 35px;
+     line-height: 42.36px;
+}
+
+.obgt_email {
+
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    float: inline-start;
+    margin-left: 180px;
+
+}
+
+
+
+.botao_enviar{
+    background-color: rgb(30, 40, 54);
+    width: 224px;
+    height: 105px;
+    margin: 62px auto 105px;
+    border: 6px solid #FFFFFF;
+    border-radius: 5px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 35px;
+    line-height: 42.36px;
+    color: #FFFFFF;
+    margin-right: 290px;
+}
