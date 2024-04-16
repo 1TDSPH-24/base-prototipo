@@ -23,7 +23,7 @@
 
  ## Equipes
 - [ Cabecalho ] Equipe responsável por criar o cabeçalho.
-- André-L - Vitor-T - Felipe-R - Victor-G - Pedro-V
+- André-L - Vitor-T - Felipe-R - Victor-G - Pedro-V - Caio
 - [ Help ] Equipe responsável por criar conteúdo do Help.
 - GioVanni-P - Lohana - Fernando - Eduarda - André-A
 - [ About ] Equipe responsável por criar conteúdo do About.
