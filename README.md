@@ -29,7 +29,7 @@
 - [ About ] Equipe responsável por criar conteúdo do About.
 - Gustavo-S - Lucas-A - Maria - Israel - Carlos - Enrico
 - [ Cadastro ] Equipe responsável por criar o formulário de cadastro.
-- Letícia - Pedro-P - Felipe-P - Sofia-P - Sofia-D
+- Letícia - Pedro-P - Felipe-P - Sofia-P - Sofia-D - Asafe
 - [ Rodapé ] Equipe responsável por criar o rodpé da página.
 - Gustavo-D - Julia-A - Victor-H - Gustavo-A - Julia-M
 
