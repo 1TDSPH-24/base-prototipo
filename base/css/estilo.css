@@ -3,15 +3,14 @@
     margin: auto;
 }
 
-.geral {
-    background: #1E2836D9;
-    opacity: 85%;
+body {
+    background: rgba(30, 40, 54, 0.85);
     text-align: center;
+    font-family: "Inter", sans-serif;
 }
 
 .titulo {
     padding-top: 73px;
-    font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
@@ -34,7 +33,6 @@
     border: 6px solid #A09393;
     border-radius: 6px;
     color: #A09393;
-    font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
@@ -46,7 +44,6 @@
 .obgt_nome {
     
     color: red;
-    font-family: Inter;
     font-size: 20px;
     font-weight: 700;
     line-height: 24px;
@@ -62,7 +59,6 @@
      border: 6px solid #A09393;
      border-radius: 6px;
      color: #A09393;
-     font-family: "Inter", sans-serif;
      font-optical-sizing: auto;
      font-weight: 400;
      font-style: normal;
@@ -74,7 +70,6 @@
 .obgt_email {
 
     color: rgb(255, 0, 0);
-    font-family: Inter;
     font-size: 20px;
     font-weight: 700;
     line-height: 24px;
@@ -90,7 +85,6 @@
     margin: 62px auto 105px;
     border: 6px solid #FFFFFF;
     border-radius: 5px;
-    font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
