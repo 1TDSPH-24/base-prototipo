@@ -1,35 +1,32 @@
-* {
+*{
     margin: 0;
     padding: 0;
     border: 0;
-}
-#cabecalho {
-    height: 200px;
-    position: relative;
-    background-image: url("../img/banner-1280_640-removebg-preview.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    
-} 
-#cabecalho h1{
-    float: left;
-    position: absolute;
-    top: 80px;
-    left: 100px;
-    
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
-
-.icon-align {
-    float: right;
-    display: inline;
-    
-}
-.icones_cabecalho{
-    display: inline;
-}
-
-
-
+  }
+  #cabecalho {
+      display: flex;
+      height: 200px;
+      position: relative;
+      background-image: url("../img/banner-1280_640-removebg-preview.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      flex-direction: column;
+      justify-content: center;
+  } 
+  #cabecalho .titulo{
+      text-align: center;
+      position:absolute;
+      font-size: 49px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: #ffffff;
+      width: 100%;
+      margin-left: -23%;
+  }
+  
+  .icon-align {
+      float: right;
+      
+  
+  }
+  
