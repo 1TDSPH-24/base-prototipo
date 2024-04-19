@@ -1,9 +1,21 @@
 #about {
-    background-color: red ;
+    background-color: #1E2836;
     background-image: url(../img/icons8-info-30.png);
     background-repeat: no-repeat;
+    color: white;
     img{
         height: 30px;
         width: 30px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    h2 {
+        text-align: left;
+        
+    }
+    p {
+        text-align: left;
+        
     }
 }
