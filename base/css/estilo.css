@@ -1,8 +1,12 @@
 #about {
-    background-color: #1E2836;
+
+    width: 50%; 
+    height: 50vh;
+    background-color: #1e2836;
     background-image: url(../img/icons8-info-30.png);
     background-repeat: no-repeat;
     color: white;
+
     img{
         height: 30px;
         width: 30px;
@@ -10,12 +14,13 @@
         bottom: 0;
         right: 0;
     }
+    p {
+        text-align: start;
+        
+        
+    }
     h2 {
         text-align: left;
-        
     }
-    p {
-        text-align: left;
-        
-    }
+
 }
