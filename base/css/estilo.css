@@ -14,5 +14,15 @@
     font-family: Arial, sans-serif;
     }
 
-
+#about::after {
+    content: '';
+    display: block;
+    width: 30px; 
+    height: 30px; 
+    position: absolute;
+    background-image: url(../img/icons8-info-30.png); 
+    background-size: cover; 
+    bottom: 0;
+    right: 0;
+}  
 
