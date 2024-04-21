@@ -6,22 +6,18 @@
   #cabecalho {
       display: flex;
       height: 200px;
-      position: relative;
       background-image: url("../img/banner-1280_640-removebg-preview.png");
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
       flex-direction: column;
       justify-content: center;
-  } 
+  }
   #cabecalho .titulo{
-      text-align: center;
-      position:absolute;
       font-size: 49px;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       color: #ffffff;
-      width: 100%;
-      margin-left: -23%;
+      padding-left:150px ;
   }
   #cabecalho ul li{
     display: inline;
@@ -34,13 +30,21 @@
   }
 
   #cabecalho nav{
-    margin-right: 17%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 100%;
   }
+
+  #cabecalho .container-icons{
+    padding-right: 240px ;
+  }
+
   
 
 * {
-    padding: auto;
-    margin: auto;
+    padding: 0;
+    margin: 0;
 }
 
 body {
@@ -202,30 +206,5 @@ body {
 }
 #rodape #github{
     filter: invert(1);
-}
-
-#cabecalho{
-    background-color: aqua;
-    height: 190px;
-    position: relative;
-    background-image: url("../img/banner-1280×640.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    h1{
-            float:  left;
-            position: absolute;
-            top: 30%; 
-            left: 10%; 
-    }
-
-    nav{
-        float: right;
-        position: absolute;
-        top: 30%;
-        right: 10%; 
-    }
-
 }
 
