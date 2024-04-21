@@ -25,7 +25,7 @@
 - [ Cabecalho ] Equipe responsável por criar o cabeçalho.
 - André-L - Vitor-T - Felipe-R - Victor-G - Pedro-V - Caio - Felipe N
 - [ Help ] Equipe responsável por criar conteúdo do Help.
-- GioVanni-P - Lohana - Fernando - Eduarda - André-A
+- GioVanni-P - Lohana - Fernando - Eduarda - André-A - Marcus-C
 - [ About ] Equipe responsável por criar conteúdo do About.
 - Gustavo-S - Lucas-A - Maria - Israel - Carlos - Enrico
 - [ Cadastro ] Equipe responsável por criar o formulário de cadastro.
