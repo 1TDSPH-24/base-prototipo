@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./css/estilo.css">
     <title>INICIO</title>
+    <link rel="stylesheet" href="./css/estilo.css">
+
   </head>
   <body>
       <header id="cabecalho"> 
@@ -19,21 +22,46 @@
               </ul>
             </nav>
           </div>
+    <main>
+        <section class="geral">
+          <h1 class="titulo">CADASTRO</h1>
+          <form class="inputs">
+            <input type="text" id="input_nome" placeholder="Nome completo" name="nome" required>
+            <label for="nome" class="obgt_nome">*Campo obrigatório</label>
+
+            
+            <input type="email" id="input_email" placeholder="Email" name="email" required>
+            <label for="email" class="obgt_email">*Campo obrigatório</label>
+            
+            
+            <button class="botao_enviar" type="submit">Enviar</button>
+          </form>
+        </section>
+        </main>
       </header>
       <main>
         <section>1</section>
         <section>2</section>
       </main>
-      <footer>
-        <nav>
-          <ul>
-            <li><a href="#">Github</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">Instagram</a></li>
-          </ul>
-        </nav>
-        <p>Copyright</p>
+       <!--Grupo Rodapé: jliamonteiro
+        JuliaAngelozi
+        GustavoAmorim12
+        Victor-Estrella
+        gustavodscruz-->
+      <footer id="rodape">
+        <div class="container">
+          <nav>
+            <ul>
+              <li><button><a href="https://github.com" target="_blank"><img src="../img/github.svg" alt="GitHub" id="github">Github</a></button></li>
+              <li><button><a href="https://google.com" target="_blank"><img src="../img/google.svg" alt="Google">Google</a></button></li>
+              <li><button><a href="https://twitter.com" target="_blank"><img src="../img/x.svg" alt="Twitter">Twitter</a></button></li>
+            </ul>
+          </nav>
+          <p>COPYRIGHT</p>
+        </div>
       </footer>
 </body>
 </html>
+
+
 
