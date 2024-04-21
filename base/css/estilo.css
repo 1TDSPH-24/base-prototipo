@@ -1,4 +1,44 @@
-#help{
+#help {
+    width: 30%;
+    height: 30%;
     background-color: #1e2836;
-    
+    color: #ffffff;
+    position: relative;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#help p {
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    text-align: justify;
+    line-height: normal;
+    word-wrap: break-word;
+    margin: 0;
+    padding-right: 50px; 
+    position: relative;
+}
+
+#help p::after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 2px;
+    right: 2px;
+    width: 26px;
+    height: 26px;
+    background-image: url('../img/icons8-help-30.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: lightgray;
+    border-radius: 50%;
+    box-sizing: border-box;
+    padding: 5px;
 }
