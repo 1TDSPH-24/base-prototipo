@@ -15,8 +15,8 @@
 
 #help p {
     color: white;
-    
-    
+    font-size: 20px;
+    font-family: Inter;
     font-weight: 400;
     text-align: justify;
     line-height: normal;
@@ -41,5 +41,5 @@
     border-radius: 50%;
     box-sizing: border-box;
     padding: 5px;
-    margin-left: 395px;
+    margin-left: 350px;
 }
