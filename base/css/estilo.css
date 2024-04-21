@@ -46,6 +46,7 @@
 }
 
 .section-about{
+
     width: 95%;
     height: 51%;
     background-color: #1e2836;
@@ -58,12 +59,14 @@
     background-color: #1e2836;
     background-repeat: no-repeat;
     position: relative;
+
     color: white;
 }   
 
 #about h2 {
     text-align: left;
     font-family: Arial, sans-serif;
+    font-size: 40px;
     }
 
 #about::after {
