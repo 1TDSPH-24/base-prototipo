@@ -1,7 +1,7 @@
 
 #help {
-    width: 30%;
-    height: 30%;
+    width: 95%;
+    height: 40%;
     background-color: #1e2836;
     color: #ffffff;
     position: relative;
@@ -46,8 +46,11 @@
 }
 
 .section-about{
-    width: 45%;
-    margin-right: 5%;
+
+    width: 95%;
+    height: 51%;
+    background-color: #1e2836;
+    border: 1px solid white;
 }
 #about {
 
@@ -55,10 +58,9 @@
     height: 30vh;
     background-color: #1e2836;
     background-repeat: no-repeat;
-    color: white;
     position: relative;
-    border: 1px solid
 
+    color: white;
 }   
 
 #about h2 {
@@ -178,7 +180,7 @@
 }
 
 label {
-    margin-right: 945px;
+    margin-right: 60%;
 }
 
 .obgt_nome {
